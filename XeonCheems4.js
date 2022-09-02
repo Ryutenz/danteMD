@@ -10590,6 +10590,7 @@ reply(`Thanks to
 Allah SWT
 Xeon
 Ryutenzo
+Lucyfxr
 My family
 And all friends who helped assemble this sexy script !!!`)
 break
