@@ -58,7 +58,7 @@ global.vcardowner = ['14053494665','6283819082780'] //ur owner number
 global.ownername = "LucyFxR" //ur owner name
 global.ytname = "YT: None" //ur yt chanel name
 global.socialm = "GitHub: Ryutenz" //ur github or insta name
-global.location = "USA, Indonesia, voldigoad kingdom" //ur location
+global.location = "USA, Indonesia, Underworld" //ur location
 
 //bot bomdy 
 global.owner = ['6283819082780']
@@ -66,11 +66,11 @@ global.ownertag = '6283819082780' //ur tag number
 global.botname = 'ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GsuP6Mw4jjs7qm4XtXkwAd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/a96fb94a36d924d99eb2f.jpg" //ur website to be displayed
-global.botscript = 'https://github.com/Ryutenz' //script link
+global.botscript = '6283819082780' //script link
 global.reactmoji = "😱" //ur menu react emoji
 global.themeemoji = "⚔️" //ur theme emoji
-global.packname = "ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ\nBy Ryutenzo\nLucyFxR\nwa.me/6283819082780 " //ur sticker watermark packname
-global.author = " " //ur sticker watermark author
+global.packname = "" //ur sticker watermark packname
+global.author = " ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ\nBy Ryutenzo\nLucyFxR\nwa.me/6283819082780 " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
