@@ -54,11 +54,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['14053494665','6283819082780'] //ur owner number
-global.ownername = "LucyFxR" //ur owner name
-global.ytname = "YT: None" //ur yt chanel name
-global.socialm = "GitHub: Ryutenz" //ur github or insta name
-global.location = "USA, Indonesia, Underworld" //ur location
+global.vcardowner = ['6283819082780'] //ur owner number
+global.ownername = "Ryutenzo" //ur owner name
+global.ytname = "Email: peikontlo@gmail.com" //ur yt chanel name
+global.socialm = "Instagram: ryutenzo_" //ur github or insta name
+global.location = "Underworld" //ur location
 
 //bot bomdy 
 global.owner = ['6283819082780']
@@ -70,7 +70,7 @@ global.botscript = 'https://jokowijk.com' //script link
 global.reactmoji = "😱" //ur menu react emoji
 global.themeemoji = "⚔️" //ur theme emoji
 global.packname = "" //ur sticker watermark packname
-global.author = " ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ\nBy Ryutenzo\nLucyFxR\nwa.me/6283819082780 " //ur sticker watermark author
+global.author = " \nlu semua kontol\n-peikrinj " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
